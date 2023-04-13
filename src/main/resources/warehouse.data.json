@@ -1,0 +1,32 @@
+[
+  {
+    "color": "WHITE",
+    "size": "SIZE_41",
+    "composition": 80,
+    "quantity": 155
+  },
+  {
+    "color": "BLACK",
+    "size": "SIZE_375",
+    "composition": 75,
+    "quantity": 1112
+  },
+  {
+    "color": "BLUE",
+    "size": "SIZE_39",
+    "composition": 77,
+    "quantity": 129
+  },
+  {
+    "color": "BLACK",
+    "size": "SIZE_37",
+    "composition": 87,
+    "quantity": 858
+  },
+  {
+    "color": "BROWN",
+    "size": "SIZE_40",
+    "composition": 68,
+    "quantity": 9
+  }
+]
