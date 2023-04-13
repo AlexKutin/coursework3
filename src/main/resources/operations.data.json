@@ -1,0 +1,66 @@
+[
+  {
+    "operationType": "ACCEPT",
+    "dateTime": [
+      2023,
+      4,
+      9,
+      11,
+      4,
+      20,
+      699392200
+    ],
+    "color": "BLUE",
+    "size": "SIZE_39",
+    "composition": 75,
+    "quantity": 19
+  },
+  {
+    "operationType": "RELEASE",
+    "dateTime": [
+      2023,
+      4,
+      9,
+      11,
+      16,
+      17,
+      468389100
+    ],
+    "color": "BLACK",
+    "size": "SIZE_37",
+    "composition": 67,
+    "quantity": 3
+  },
+  {
+    "operationType": "ACCEPT",
+    "dateTime": [
+      2023,
+      4,
+      9,
+      11,
+      17,
+      42,
+      274239700
+    ],
+    "color": "BLUE",
+    "size": "SIZE_39",
+    "composition": 75,
+    "quantity": 211
+  },
+  {
+    "operationType": "WRITEOFF",
+    "dateTime": [
+      2023,
+      4,
+      9,
+      11,
+      19,
+      48,
+      414454500
+    ],
+    "color": "BLUE",
+    "size": "SIZE_39",
+    "composition": 75,
+    "quantity": 1010
+  }
+]
